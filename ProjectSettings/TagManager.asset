@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Enemy
   - Win
+  - DeadEnd
+  - Bullet
   layers:
   - Default
   - TransparentFX
