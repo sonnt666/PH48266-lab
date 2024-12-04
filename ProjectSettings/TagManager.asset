@@ -8,6 +8,8 @@ TagManager:
   - Win
   - DeadEnd
   - Bullet
+  - Laser
+  - Meteor
   layers:
   - Default
   - TransparentFX
